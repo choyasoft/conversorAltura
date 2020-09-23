@@ -42,6 +42,7 @@ public class heightconverter extends javax.swing.JFrame {
         setTitle("Conversor de pulgadas y pies");
         setBounds(new java.awt.Rectangle(600, 300, 0, 0));
         setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        setResizable(false);
 
         jPanel1.setBackground(javax.swing.UIManager.getDefaults().getColor("Button.darkShadow"));
 
